@@ -2,7 +2,7 @@
 1. hello.js -- 最普通helloworld
 2. 普通get请求 -- ？
 3. 普通post请求 -- ？
-4. 普通ssrf
+4. 普通ssrf -- ?
 5. 普通xss
 6. 普通csrf
 7. 普通sqli
