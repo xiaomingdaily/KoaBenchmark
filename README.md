@@ -17,5 +17,4 @@
 5. NodeJS的Router处理
 
 # 参考资料
-1. https://www.jianshu.com/p/d0b30147b754
-2. 
+1. https://www.jianshu.com/p/d0b30147b754 
